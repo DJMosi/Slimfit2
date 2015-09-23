@@ -1,1 +1,2 @@
-# Slimfit2
+# JQueryBMICalculator
+this a jquery bmi calculator
